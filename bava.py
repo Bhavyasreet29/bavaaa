@@ -1,1 +1,1 @@
-print("bava okaa mataa")
+print("ki")
